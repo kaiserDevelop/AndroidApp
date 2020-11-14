@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659862981",
+    "firebase_url": "https://vaccinationrecord-b8f92.firebaseio.com",
+    "project_id": "vaccinationrecord-b8f92",
+    "storage_bucket": "vaccinationrecord-b8f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659862981:android:282e6329cab3c22cf207ac",
+        "android_client_info": {
+          "package_name": "com.cvv.vaccinationrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659862981-2mjvpf12d14rp94b286g3d67s178o8me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00hkM5mMuJdhaXOPCqngtdhnfSnf62bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659862981-2mjvpf12d14rp94b286g3d67s178o8me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
