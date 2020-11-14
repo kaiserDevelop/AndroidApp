@@ -49,6 +49,7 @@ class MainActivity : AppCompatActivity() {
             viewModel.saveCatPets(catPet)
         }
 
+
         buttonUser.setOnClickListener {
             //userViewModel.createUserWithEmail("max@gmail.com","12345678","Max")
             val authRepository = AuthRepository.getInstance()
